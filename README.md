@@ -19,9 +19,8 @@
 - バックエンド：Python  
 
 ### フレームワーク
-- Django  
-- Node.js（サブ）
-- Pythonを中心に開発しつつ、必要に応じてNode.jsも検討しているため。
+- Django（Pythonでバックエンドを作るため）
+- Node.js（必要に応じて使用予定）
 
 ### データベース
 - MySQL  
